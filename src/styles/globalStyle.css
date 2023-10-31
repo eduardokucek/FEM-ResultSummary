@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "HankenGrotesk-VariableFont_wght";
+  src: URL("/src/assets/fonts/HankenGrotesk-VariableFont_wght.ttf")
+    format("truetype");
+}
+
+html,
+body {
+  font-family: "HankenGrotesk-VariableFont_wght", sans-serif;
+}
+
+:root {
+  --color-primary: rgb(96, 0, 237);
+  --color-grey-1: ;
+  --color-grey-2: ;
+  --color-grey-3: ;
+  --color-text-1: #ffffff;
+  --color-text-2: #322f4b;
+  --color-text-3: #cbbec3;
+  --color-text-extra: #d6b5ff;
+}
