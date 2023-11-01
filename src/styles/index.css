@@ -71,6 +71,11 @@
   gap: 1rem;
 }
 
+.summary .sumary-list .image {
+  display: flex;
+  gap: 0.6rem;
+}
+
 .summary #reaction {
   display: flex;
   align-items: center;
